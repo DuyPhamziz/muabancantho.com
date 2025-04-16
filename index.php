@@ -1,16 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Trang chu</title>
-    <style>
-    h1 {
-        color: red;>
-    }
-    </style>
-</head>
-<body>
-    <h1  >Nguyen Hoang Hao</h1>
-</body>
+<html>
+	<head>
+		<title>Học PHP</title>
+	</head>
+	<body>
+		<h1>Xin chào PHP</h1>
+	</body>
 </html>
